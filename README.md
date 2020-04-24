@@ -45,5 +45,5 @@ npm install -g truffle@5.0.41 ganache-cli@6.7.0
 6. Run the frontend app
 
     ```
-    cd client && npm start
+    cd client && npm install && npm start
     ```
